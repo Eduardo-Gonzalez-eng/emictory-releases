@@ -1,24 +1,24 @@
 {
-  "products": [
-    {
-      "id": "emictory",
-      "name": "Emictory",
-      "description": "Ingeniería y simulación de plantas de automatización.",
-      "publisher": "LoDanet",
-      "upgradeCode": "{7E1F4C2A-9B35-4D60-8A17-3C5E2F90B6D1}",
-      "latestVersion": "0.1.0.0",
-      "installerUrl": "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.1.0/Emictory-0.1.0.msi",
-      "sha256": "1C40BA4DBA617CEEDFAB423807DC6877026180581A1E02B7E5A46F6E3959E1A4",
-      "sizeMb": 106.5,
-      "releaseNotes": "Primera versión de lanzamiento.",
-      "available": true,
-      "exeName": "Emictory.exe",
-      "accent": "#2F7BF6",
-      "components": [
-        "Microsoft .NET 10",
-        "Microsoft Visual C++"
-      ],
-      "requiresWebView2": true
-    }
-  ]
+    "products":  [
+                     {
+                         "id":  "emictory",
+                         "name":  "Emictory",
+                         "description":  "Ingeniería y simulación de plantas de automatización.",
+                         "publisher":  "LoDanet",
+                         "upgradeCode":  "{7E1F4C2A-9B35-4D60-8A17-3C5E2F90B6D1}",
+                         "latestVersion":  "0.1.1.0",
+                         "installerUrl":  "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.1.1/Emictory-0.1.1.msi",
+                         "sha256":  "DF4D56C283BC704DB4167E8FCF29E6F15C7DBA6C6676EDA072E4E8F3CE8C1C63",
+                         "sizeMb":  106.5,
+                         "available":  true,
+                         "exeName":  "Emictory.exe",
+                         "accent":  "#2F7BF6",
+                         "releaseNotes":  "Muestra el plan de la cuenta junto al usuario.",
+                         "components":  [
+                                            "Microsoft .NET 10",
+                                            "Microsoft Visual C++"
+                                        ],
+                         "requiresWebView2":  true
+                     }
+                 ]
 }
