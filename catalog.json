@@ -6,14 +6,14 @@
                          "description":  "Ingeniería y simulación de plantas de automatización.",
                          "publisher":  "LoDanet",
                          "upgradeCode":  "{7E1F4C2A-9B35-4D60-8A17-3C5E2F90B6D1}",
-                         "latestVersion":  "0.2.5.0",
-                         "installerUrl":  "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.2.5/Emictory-0.2.5.msi",
-                         "sha256":  "7B00BB581DD954C0D49BB16D2C9F8F2F442FAF6348347CFBA03D5FC96CC98993",
+                         "latestVersion":  "0.2.6.0",
+                         "installerUrl":  "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.2.6/Emictory-0.2.6.msi",
+                         "sha256":  "8CBC9A60214698B4D535B0186ECEAAC7EDCE17CCF027EC52CBF31EE48C410ED7",
                          "sizeMb":  144.9,
                          "available":  true,
                          "exeName":  "Emictory.exe",
                          "accent":  "#2F7BF6",
-                         "releaseNotes":  "«Abrir planta» muestra las plantas nuevas (.emictory) y las de versiones anteriores (planta.json) para migrarlas.",
+                         "releaseNotes":  "Mapa de registros por equipo: tabla por tipo de registro Modbus con dirección, offset, tipo de dato, cantidad de registros, escala, unidad y acceso; exportable a CSV para Excel.",
                          "components":  [
                                             "Microsoft .NET 10",
                                             "Microsoft Visual C++"
