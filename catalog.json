@@ -6,14 +6,14 @@
                          "description":  "Ingeniería y simulación de plantas de automatización.",
                          "publisher":  "LoDanet",
                          "upgradeCode":  "{7E1F4C2A-9B35-4D60-8A17-3C5E2F90B6D1}",
-                         "latestVersion":  "0.2.3.0",
-                         "installerUrl":  "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.2.3/Emictory-0.2.3.msi",
-                         "sha256":  "2543B5710599462D7E3BEF163DAC0095FADFE5920E2D220DE896322C6596000F",
+                         "latestVersion":  "0.2.4.0",
+                         "installerUrl":  "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.2.4/Emictory-0.2.4.msi",
+                         "sha256":  "09B7C39A5C447A977623EDB8E3D7A61F52FDB29995AB9EF05C47E3E8612651C0",
                          "sizeMb":  144.9,
                          "available":  true,
                          "exeName":  "Emictory.exe",
                          "accent":  "#2F7BF6",
-                         "releaseNotes":  "Migración de plantas: al abrir una planta de una versión anterior, «Migrar» guarda una copia de respaldo y la deja en esta versión. Bornes de común del variador (+24V, COM, +10V, GND, comunes de relés) con sus conexiones completas.",
+                         "releaseNotes":  "Arregla que Emictory no volviera a abrir después de cerrarlo (el proceso quedaba vivo sin ventana).",
                          "components":  [
                                             "Microsoft .NET 10",
                                             "Microsoft Visual C++"
