@@ -6,14 +6,14 @@
                          "description":  "Ingeniería y simulación de plantas de automatización.",
                          "publisher":  "LoDanet",
                          "upgradeCode":  "{7E1F4C2A-9B35-4D60-8A17-3C5E2F90B6D1}",
-                         "latestVersion":  "0.2.4.0",
-                         "installerUrl":  "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.2.4/Emictory-0.2.4.msi",
-                         "sha256":  "09B7C39A5C447A977623EDB8E3D7A61F52FDB29995AB9EF05C47E3E8612651C0",
+                         "latestVersion":  "0.2.5.0",
+                         "installerUrl":  "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.2.5/Emictory-0.2.5.msi",
+                         "sha256":  "7B00BB581DD954C0D49BB16D2C9F8F2F442FAF6348347CFBA03D5FC96CC98993",
                          "sizeMb":  144.9,
                          "available":  true,
                          "exeName":  "Emictory.exe",
                          "accent":  "#2F7BF6",
-                         "releaseNotes":  "Arregla que Emictory no volviera a abrir después de cerrarlo (el proceso quedaba vivo sin ventana).",
+                         "releaseNotes":  "«Abrir planta» muestra las plantas nuevas (.emictory) y las de versiones anteriores (planta.json) para migrarlas.",
                          "components":  [
                                             "Microsoft .NET 10",
                                             "Microsoft Visual C++"
