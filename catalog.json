@@ -1,24 +1,24 @@
 {
-    "products":  [
-                     {
-                         "id":  "emictory",
-                         "name":  "Emictory",
-                         "description":  "Ingeniería y simulación de plantas de automatización.",
-                         "publisher":  "LoDanet",
-                         "upgradeCode":  "{7E1F4C2A-9B35-4D60-8A17-3C5E2F90B6D1}",
-                         "latestVersion":  "0.2.7.0",
-                         "installerUrl":  "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.2.7/Emictory-0.2.7.msi",
-                         "sha256":  "2789A6B9B01BC62202718044A80D7E30D832F23164552C9FC72483266DCCC4F9",
-                         "sizeMb":  145.6,
-                         "available":  true,
-                         "exeName":  "Emictory.exe",
-                         "accent":  "#2F7BF6",
-                         "releaseNotes":  "RelÃ©s de gestiÃ³n de motor: medida de corriente y tensiÃ³n eligiendo los cables en Propiedades â€º InstalaciÃ³n (los cables pasan por las ventanas del mÃ³dulo).\nRelÃ© de gestiÃ³n de motor en versiones DeviceNet y PROFIBUS DP, con mÃ³dulos de entradas, salidas y ampliaciÃ³n, y modelo 3D con sus bornes reales.\nPasarela PROFINET/DeviceNet con modelo 3D nuevo y cordÃ³n DeviceNet de 5 hilos hasta sus bornes; conector PROFIBUS 3D.\nPanel Â«MandosÂ» a la derecha para cualquier equipo elegido: botones arriba y mediciones en vivo abajo. Â«SimuladoresÂ» tambiÃ©n a la derecha, en cualquier vista.\nVelocidades de comunicaciÃ³n siempre en listas desplegables; la pestaÃ±a de comunicaciÃ³n lleva el nombre de su protocolo.\nSoftware de los equipos con barra de tareas dentro de la ventana: la pasarela DeviceNet abre su Configurador DeviceNet y la PROFINET/PROFIBUS su nuevo Configurador PROFIBUS (esclavos, bus, diagnÃ³stico).\nLos errores de configuraciÃ³n van solo en la pestaÃ±a Â«ErroresÂ» de cada equipo, red y software; en el 3D, en Â«MensajesÂ».\nCopiar con Shift crea un equipo nuevo sin arrastrar los cables; clic derecho sobre un cable elegido para moverlo dentro de su ruta.",
-                         "components":  [
-                                            "Microsoft .NET 10",
-                                            "Microsoft Visual C++"
-                                        ],
-                         "requiresWebView2":  true
-                     }
-                 ]
+  "products": [
+    {
+      "id": "emictory",
+      "name": "Emictory",
+      "description": "Ingeniería y simulación de plantas de automatización.",
+      "publisher": "LoDanet",
+      "upgradeCode": "{7E1F4C2A-9B35-4D60-8A17-3C5E2F90B6D1}",
+      "latestVersion": "0.2.7.0",
+      "installerUrl": "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.2.7/Emictory-0.2.7.msi",
+      "sha256": "2789A6B9B01BC62202718044A80D7E30D832F23164552C9FC72483266DCCC4F9",
+      "sizeMb": 145.6,
+      "available": true,
+      "exeName": "Emictory.exe",
+      "accent": "#2F7BF6",
+      "releaseNotes": "Relés de gestión de motor: medida de corriente y tensión eligiendo los cables en Propiedades › Instalación (los cables pasan por las ventanas del módulo).\nRelé de gestión de motor en versiones DeviceNet y PROFIBUS DP, con módulos de entradas, salidas y ampliación, y modelo 3D con sus bornes reales.\nPasarela PROFINET/DeviceNet con modelo 3D nuevo y cordón DeviceNet de 5 hilos hasta sus bornes; conector PROFIBUS 3D.\nPanel «Mandos» a la derecha para cualquier equipo elegido: botones arriba y mediciones en vivo abajo. «Simuladores» también a la derecha, en cualquier vista.\nVelocidades de comunicación siempre en listas desplegables; la pestaña de comunicación lleva el nombre de su protocolo.\nSoftware de los equipos con barra de tareas dentro de la ventana: la pasarela DeviceNet abre su Configurador DeviceNet y la PROFINET/PROFIBUS su nuevo Configurador PROFIBUS (esclavos, bus, diagnóstico).\nLos errores de configuración van solo en la pestaña «Errores» de cada equipo, red y software; en el 3D, en «Mensajes».\nCopiar con Shift crea un equipo nuevo sin arrastrar los cables; clic derecho sobre un cable elegido para moverlo dentro de su ruta.",
+      "components": [
+        "Microsoft .NET 10",
+        "Microsoft Visual C++"
+      ],
+      "requiresWebView2": true
+    }
+  ]
 }
