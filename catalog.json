@@ -1,24 +1,24 @@
 {
-  "products": [
-    {
-      "id": "emictory",
-      "name": "Emictory",
-      "description": "Ingeniería y simulación de plantas de automatización.",
-      "publisher": "LoDanet",
-      "upgradeCode": "{7E1F4C2A-9B35-4D60-8A17-3C5E2F90B6D1}",
-      "latestVersion": "0.2.7.0",
-      "installerUrl": "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.2.7/Emictory-0.2.7.msi",
-      "sha256": "2789A6B9B01BC62202718044A80D7E30D832F23164552C9FC72483266DCCC4F9",
-      "sizeMb": 145.6,
-      "available": true,
-      "exeName": "Emictory.exe",
-      "accent": "#2F7BF6",
-      "releaseNotes": "Relés de gestión de motor: medida de corriente y tensión eligiendo los cables en Propiedades › Instalación (los cables pasan por las ventanas del módulo).\nRelé de gestión de motor en versiones DeviceNet y PROFIBUS DP, con módulos de entradas, salidas y ampliación, y modelo 3D con sus bornes reales.\nPasarela PROFINET/DeviceNet con modelo 3D nuevo y cordón DeviceNet de 5 hilos hasta sus bornes; conector PROFIBUS 3D.\nPanel «Mandos» a la derecha para cualquier equipo elegido: botones arriba y mediciones en vivo abajo. «Simuladores» también a la derecha, en cualquier vista.\nVelocidades de comunicación siempre en listas desplegables; la pestaña de comunicación lleva el nombre de su protocolo.\nSoftware de los equipos con barra de tareas dentro de la ventana: la pasarela DeviceNet abre su Configurador DeviceNet y la PROFINET/PROFIBUS su nuevo Configurador PROFIBUS (esclavos, bus, diagnóstico).\nLos errores de configuración van solo en la pestaña «Errores» de cada equipo, red y software; en el 3D, en «Mensajes».\nCopiar con Shift crea un equipo nuevo sin arrastrar los cables; clic derecho sobre un cable elegido para moverlo dentro de su ruta.",
-      "components": [
-        "Microsoft .NET 10",
-        "Microsoft Visual C++"
-      ],
-      "requiresWebView2": true
-    }
-  ]
+    "products":  [
+                     {
+                         "id":  "emictory",
+                         "name":  "Emictory",
+                         "description":  "Ingeniería y simulación de plantas de automatización.",
+                         "publisher":  "LoDanet",
+                         "upgradeCode":  "{7E1F4C2A-9B35-4D60-8A17-3C5E2F90B6D1}",
+                         "latestVersion":  "0.2.8.0",
+                         "installerUrl":  "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.2.8/Emictory-0.2.8.msi",
+                         "sha256":  "B10C2E773241439918FE9804030B21DFA8CF0911240D92CA74F4A449D29166A6",
+                         "sizeMb":  145.6,
+                         "available":  true,
+                         "exeName":  "Emictory.exe",
+                         "accent":  "#2F7BF6",
+                         "releaseNotes":  "Sin textos de ayuda sueltos en ninguna vista: solo títulos, campos, valores y estados; los datos útiles quedan como filas.\r\nTodo en una sola columna hacia abajo (RTU, variador, firewall, cámara, detalle del GSD y demás).\r\nLas E/S integradas de un equipo se dibujan dentro de su unidad básica, como un solo bloque; las ranuras que siguen son solo de ampliación.\r\nCables: los relés con ventanas de medida vuelven a ser obstáculo (ningún cable los atraviesa) y el cable pasa tenso por los puntos de ajuste, sin bucles.\r\nDoble clic en un cable crea un punto de ajuste donde se hizo clic; el clic derecho encuentra el cable aunque caiga al lado.",
+                         "components":  [
+                                            "Microsoft .NET 10",
+                                            "Microsoft Visual C++"
+                                        ],
+                         "requiresWebView2":  true
+                     }
+                 ]
 }
