@@ -6,14 +6,14 @@
                          "description":  "Ingeniería y simulación de plantas de automatización.",
                          "publisher":  "LoDanet",
                          "upgradeCode":  "{7E1F4C2A-9B35-4D60-8A17-3C5E2F90B6D1}",
-                         "latestVersion":  "0.3.2.0",
-                         "installerUrl":  "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.3.2/Emictory-0.3.2.msi",
-                         "sha256":  "5979A61B064967A70F7A1176F994473727B0B2772DFD7EA50351B1D0B843CC0F",
+                         "latestVersion":  "0.3.3.0",
+                         "installerUrl":  "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.3.3/Emictory-0.3.3.msi",
+                         "sha256":  "CF1566586BA04A9634F1C34E5AB46DC615EBDC757FEEB9FD42702E0BC861F326",
                          "sizeMb":  153.1,
                          "available":  true,
                          "exeName":  "Emictory.exe",
                          "accent":  "#2F7BF6",
-                         "releaseNotes":  "Arrastrar al visor 3D más robusto: sigue al cursor y detecta el soltar aunque otra ventana (como Librerías) se haya activado antes; las máquinas y modelos del catálogo se colocan siempre al soltarlos sobre el visor. Importador de modelos 3D nuevo: revisa el archivo, reconoce acople de motor, piezas que giran, montajes y contactos por nombre, y crea el modelo en la biblioteca del usuario como paquete propio.",
+                         "releaseNotes":  "Entorno 3D: el riel derecho empieza con Objetos de escena y sigue con Máquinas (antes Catálogo), con las máquinas del usuario a la vista; se quitó Simuladores. Un solo ancho para todos los paneles de la derecha, ajustable arrastrando su borde izquierdo. Arrastrar al visor 3D más robusto.",
                          "components":  [
                                             "Microsoft .NET 10",
                                             "Microsoft Visual C++"
