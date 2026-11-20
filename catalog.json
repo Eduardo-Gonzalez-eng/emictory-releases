@@ -6,14 +6,14 @@
                          "description":  "Ingeniería y simulación de plantas de automatización.",
                          "publisher":  "LoDanet",
                          "upgradeCode":  "{7E1F4C2A-9B35-4D60-8A17-3C5E2F90B6D1}",
-                         "latestVersion":  "0.3.9.0",
-                         "installerUrl":  "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.3.9/Emictory-0.3.9.msi",
-                         "sha256":  "53E665AB432C5FD4CA4A602F6338DD101628458160ACEFC311A771A707573FD8",
+                         "latestVersion":  "0.4.0.0",
+                         "installerUrl":  "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.4.0/Emictory-0.4.0.msi",
+                         "sha256":  "C956B48B86878B0A28E4D5D9CBD9D69EF4A580E0DF69FFE2DEC923ED3BB7121A",
                          "sizeMb":  167.3,
                          "available":  true,
                          "exeName":  "Emictory.exe",
                          "accent":  "#2F7BF6",
-                         "releaseNotes":  "El aviso de actualización ahora recuerda guardar tu proyecto antes de actualizar y trae el botón «Guardar» junto a «Abrir Hub». Incluye todo lo de la 0.3.8: «Mi licencia» en el menú de tu usuario, «Mis máquinas» en todos los planes, modo colaborativo solo en el plan Colaborativo y cierre seguro si la ventana no llega a abrirse.",
+                         "releaseNotes":  "Planta compartida: quien entra ahora ve en vivo la simulación de quien comparte (elevadores, cintas, motores girando, robots, cilindros, cargas que viajan, llenado de estanques, luces y explosiones). Para conectarse, los dos deben tener la misma versión de Emictory (los dos primeros números; las correcciones no cuentan): si no, se avisa a ambos quién debe actualizar. La etiqueta «indica» queda fija sobre la pieza.",
                          "components":  [
                                             "Microsoft .NET 10",
                                             "Microsoft Visual C++"
