@@ -6,14 +6,14 @@
                          "description":  "Ingeniería y simulación de plantas de automatización.",
                          "publisher":  "LoDanet",
                          "upgradeCode":  "{7E1F4C2A-9B35-4D60-8A17-3C5E2F90B6D1}",
-                         "latestVersion":  "0.4.2.0",
-                         "installerUrl":  "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.4.2/Emictory-0.4.2.msi",
-                         "sha256":  "09E3F42770A8E487F00071FC73839A1DCC9C1FA9D6501FE9B54D0CD54DC82754",
+                         "latestVersion":  "0.4.3.0",
+                         "installerUrl":  "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.4.3/Emictory-0.4.3.msi",
+                         "sha256":  "B4884EAC6FA3A7006C88173A516A9821ABC1C1B19CF8DA821B63EE1E863879EC",
                          "sizeMb":  167.3,
                          "available":  true,
                          "exeName":  "Emictory.exe",
                          "accent":  "#2F7BF6",
-                         "releaseNotes":  "Planta compartida: si quien comparte cierra Emictory o se corta su conexión, los invitados se desconectan solos y se les avisa (su copia queda abierta sin guardar). Los motores muestran la potencia eléctrica que consumen en vivo, y el generador ve la misma. La toma del generador portátil ahora es un enchufe: el cable llega con su enchufe macho y cada enchufe acepta una sola carga; para alimentar más equipos hay que armar un tablero que reparta la energía.",
+                         "releaseNotes":  "Corrige que el térmico del generador no se dejara rearmar: un equipo sin enchufe libre ya no suma carga. En una planta compartida, quien entra ve los Mandos y valores de los equipos aunque la planta esté quieta, y el botón para pausar o habilitar la simulación queda solo para quien comparte.",
                          "components":  [
                                             "Microsoft .NET 10",
                                             "Microsoft Visual C++"
