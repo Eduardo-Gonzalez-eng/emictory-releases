@@ -6,14 +6,14 @@
                          "description":  "Ingeniería y simulación de plantas de automatización.",
                          "publisher":  "LoDanet",
                          "upgradeCode":  "{7E1F4C2A-9B35-4D60-8A17-3C5E2F90B6D1}",
-                         "latestVersion":  "0.3.7.0",
-                         "installerUrl":  "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.3.7/Emictory-0.3.7.msi",
-                         "sha256":  "9FB4E25AA2F0ADD18115114DB8E42B8767BBE0F95D6014E898745E568F502E36",
+                         "latestVersion":  "0.3.8.0",
+                         "installerUrl":  "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.3.8/Emictory-0.3.8.msi",
+                         "sha256":  "3252D6E632AEA4ADC2E39703F0B386D62714FFEB6C489318D0B9454C4215CE7A",
                          "sizeMb":  167.2,
                          "available":  true,
                          "exeName":  "Emictory.exe",
                          "accent":  "#2F7BF6",
-                         "releaseNotes":  "Corrige el error al abrir de la 0.3.6 («The method or operation is not implemented»). Además: el plan Colaborativo es una suscripción y Emictory respeta su vencimiento; la ventana «Conectar a una planta» explica que la ingeniería también se comparte en vivo; la pregunta al borrar una canalización se ve entera. Incluye todo lo de la 0.3.6: planta compartida en tiempo real (botón «Colaborativo», túnel automático, ingeniería en vivo, cámaras con nombre, «Indicar a colaboradores»), instalación eléctrica real (conduit, cajas de derivación, mufas, acometida, poste con cadenas de remate, desconectadores y fusibles de BT), bloquear objetos, importar como modelo o máquina, Alt+X y Ctrl+Y.",
+                         "releaseNotes":  "Nuevo «Mi licencia» en el menú de tu usuario: tu plan, lo que usas de la planta abierta frente al límite (equipos en la red, objetos 3D, slots) y lo que incluye. «Mis máquinas» ahora está en todos los planes (sus piezas cuentan como objetos 3D). El modo colaborativo (compartir tu planta y entrar a la de otros) es solo del plan Colaborativo, y cada plan avisa claramente lo que no incluye. Si Emictory no logra abrir su ventana, ya no queda abierto en segundo plano (eso trababa la actualización desde el Hub e impedía volver a abrirlo), y si Windows bloquea uno de sus archivos lo dice en vez de cerrarse sin aviso.",
                          "components":  [
                                             "Microsoft .NET 10",
                                             "Microsoft Visual C++"
