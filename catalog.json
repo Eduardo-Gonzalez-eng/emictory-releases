@@ -6,14 +6,14 @@
                          "description":  "Ingeniería y simulación de plantas de automatización.",
                          "publisher":  "LoDanet",
                          "upgradeCode":  "{7E1F4C2A-9B35-4D60-8A17-3C5E2F90B6D1}",
-                         "latestVersion":  "0.4.5.0",
-                         "installerUrl":  "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.4.5/Emictory-0.4.5.msi",
-                         "sha256":  "86E065022DB0ABBE92B4CF1396E52D54BE33CB7A53632854324868FBCA026333",
+                         "latestVersion":  "0.4.6.0",
+                         "installerUrl":  "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.4.6/Emictory-0.4.6.msi",
+                         "sha256":  "53103A8D6F7DF43C0006A673D6E002BCF2BB2BCA5C73CCB3A904053084C1E1AB",
                          "sizeMb":  167.3,
                          "available":  true,
                          "exeName":  "Emictory.exe",
                          "accent":  "#2F7BF6",
-                         "releaseNotes":  "Protecciones: tener más carga asociada de la que entrega una fuente ahora es solo un aviso; la protección salta con la carga real al encender y se puede rearmar siempre (antes saltaba sola y no dejaba rearmar). Generadores: el GP-7500 muestra «7 kW 400 V / 2 kW 230 V» y la potencia de la salida elegida. Cables: el cordón de un generador entra al tablero por su prensaestopas, se abre en la canaleta y su fase sube por ella al termomagnético, sin dar vueltas; los conductores al aire quedan a la vista fuera de la canaleta; con una barra de neutro en el tablero, los neutros llegan solos a ella; la boca del enchufe ya no se ofrece como destino de un conductor.",
+                         "releaseNotes":  "Empalme de puntas al aire: en Propiedades del cable (Eléctrico), un conductor que quedó al aire se puede empalmar con la punta al aire de otro cable de su función (por ejemplo, el neutro del cordón de un generador con los neutros de los motores de su termomagnético): terminan juntas en un capuchón. Los conductores al aire ahora salen por arriba de la canaleta, hacia su aparato, a la vista.",
                          "components":  [
                                             "Microsoft .NET 10",
                                             "Microsoft Visual C++"
