@@ -6,14 +6,14 @@
                          "description":  "Ingeniería y simulación de plantas de automatización.",
                          "publisher":  "LoDanet",
                          "upgradeCode":  "{7E1F4C2A-9B35-4D60-8A17-3C5E2F90B6D1}",
-                         "latestVersion":  "0.3.6.0",
-                         "installerUrl":  "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.3.6/Emictory-0.3.6.msi",
-                         "sha256":  "B3940406D4171D15570B0FC86B25DCC79C104F2092AA3F958DCDD6B2D636E9F3",
+                         "latestVersion":  "0.3.7.0",
+                         "installerUrl":  "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.3.7/Emictory-0.3.7.msi",
+                         "sha256":  "9FB4E25AA2F0ADD18115114DB8E42B8767BBE0F95D6014E898745E568F502E36",
                          "sizeMb":  167.2,
                          "available":  true,
                          "exeName":  "Emictory.exe",
                          "accent":  "#2F7BF6",
-                         "releaseNotes":  "Planta compartida en tiempo real (plan Colaborativo): botón «Colaborativo» para compartir tu planta o entrar a la de otro por internet; Emictory abre el túnel solo, instala lo necesario y lo cierra al dejar de compartir. La escena 3D y la ingeniería (ladder y demás bloques, variables, equipos, HMI, redes) se ven en vivo en las dos direcciones, con bloqueo de lo que otro está editando y el ladder en línea; se ven las cámaras de los demás con su nombre, «Ir allí», «Indicar a colaboradores» y el visor con borde violeta mientras se comparte. Instalación eléctrica real: canalización con tubos conduit, curvas, cajas de derivación con tapa, mufas, acometida subterránea y tierras por tubo; poste sin nada de fábrica con cadenas de remate, desconectadores fusible, pararrayos y fusibles de BT funcionales; la línea llega solo por la cadena de su fase; cortocircuito de conductores desnudos contra metal a tierra; los cables rodean equipos y postes. Enchufe macho en lo enchufado, tapas que se quitan, «Ver a través» con Alt+X, Ctrl+Y para rehacer, bloquear objetos (candado en Objetos de escena), importar como modelo o como máquina, canalizaciones con entrada por los extremos, «Añadir cables» con un clic y la ruta a la vista al pasar el mouse; la cámara gira y panea respecto del cable elegido. El menú «Redes» ahora se llama «Redes industriales».",
+                         "releaseNotes":  "Corrige el error al abrir de la 0.3.6 («The method or operation is not implemented»). Además: el plan Colaborativo es una suscripción y Emictory respeta su vencimiento; la ventana «Conectar a una planta» explica que la ingeniería también se comparte en vivo; la pregunta al borrar una canalización se ve entera. Incluye todo lo de la 0.3.6: planta compartida en tiempo real (botón «Colaborativo», túnel automático, ingeniería en vivo, cámaras con nombre, «Indicar a colaboradores»), instalación eléctrica real (conduit, cajas de derivación, mufas, acometida, poste con cadenas de remate, desconectadores y fusibles de BT), bloquear objetos, importar como modelo o máquina, Alt+X y Ctrl+Y.",
                          "components":  [
                                             "Microsoft .NET 10",
                                             "Microsoft Visual C++"
