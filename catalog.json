@@ -6,14 +6,14 @@
                          "description":  "Ingeniería y simulación de plantas de automatización.",
                          "publisher":  "LoDanet",
                          "upgradeCode":  "{7E1F4C2A-9B35-4D60-8A17-3C5E2F90B6D1}",
-                         "latestVersion":  "0.4.8.0",
-                         "installerUrl":  "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.4.8/Emictory-0.4.8.msi",
-                         "sha256":  "C03D2E76D986F564F1E1C2DED0E955138B890230AD60FFFB8FE8B5C4984D0F24",
+                         "latestVersion":  "0.4.9.0",
+                         "installerUrl":  "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.4.9/Emictory-0.4.9.msi",
+                         "sha256":  "CE843041FB6067CEE7824FB91E49E16C4F15C14B7BA1EF6B740B55C54B6FB090",
                          "sizeMb":  167.3,
                          "available":  true,
                          "exeName":  "Emictory.exe",
                          "accent":  "#2F7BF6",
-                         "releaseNotes":  "Transportador de banda B 650 industrial rehecho por piezas (polines en artesa, cabeza con capota y raspador, cola con tensor y faldones, accionamiento con reductor) y un modelo nuevo de alimentación de 8 m. Chute de transferencia a 45° para bajar el grano de la banda a la tolva de entrada de un elevador de cangilones. Tolva de alimentación de material a granel con alimentadores vibratorios. Torres de agua (de angulares y de copa de acero u hormigón), generadores portátiles a bencina y clase de eficiencia IE en los motores, con modelos IE3 e IE4. El rojo queda solo para errores críticos (fusible quemado, disparo de una protección); lo demás se muestra como advertencia. Se retiraron del catálogo los modelos ocultos y en espera: las plantas guardadas que los usaban se abren con su equivalente cuando lo hay.",
+                         "releaseNotes":  "Cálculo eléctrico real en toda la planta: la red se resuelve por nodos sobre los conductores tendidos (su largo y su sección), así que las cargas en serie se reparten la tensión, las en paralelo suman sus corrientes, los cables largos hacen caer la tensión y un conductor mal puesto es un cortocircuito real que hace actuar las protecciones. Cada equipo muestra en Propiedades la tensión en sus bornes. Las salidas digitales, pilotos, bobinas y sensores de 24 V siguen al circuito cuando su cableado está tendido. Se pueden cablear cargas en serie y hay ampolletas incandescentes además de las LED. En Mandos, filtro «Mostrar» con parámetros básicos (por defecto), avanzados, simulaciones y gráficos. Mis modelos y las posiciones en Propiedades usan la unidad de Preferencias (metros o milímetros). Nueva bajada de descarga a 45° para elevador de cangilones; el grano cae hasta la primera boca que tenga debajo; el transportador de banda puede ir sin patas sobre una estructura y su grano se ve según la carga. Al guardar un modelo propio ya no se reinicia la simulación de la planta, en la planta compartida ya no se ven bloques de material volando y una unión universal entre dos tubos ya no marca choque.",
                          "components":  [
                                             "Microsoft .NET 10",
                                             "Microsoft Visual C++"
