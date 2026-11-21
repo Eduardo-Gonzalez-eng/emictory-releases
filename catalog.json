@@ -6,14 +6,14 @@
                          "description":  "Ingeniería y simulación de plantas de automatización.",
                          "publisher":  "LoDanet",
                          "upgradeCode":  "{7E1F4C2A-9B35-4D60-8A17-3C5E2F90B6D1}",
-                         "latestVersion":  "0.4.10.0",
-                         "installerUrl":  "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.4.10/Emictory-0.4.10.msi",
-                         "sha256":  "D76E21818194E243392A0350149EDB166899B49309C0B1A2C57E51D7A95DB4C5",
+                         "latestVersion":  "0.4.11.0",
+                         "installerUrl":  "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.4.11/Emictory-0.4.11.msi",
+                         "sha256":  "F51A1D1FA9CC71CCF4A6736C0C98AE8EF8158AE139D9EE5C85467AE8AB561E37",
                          "sizeMb":  167.4,
                          "available":  true,
                          "exeName":  "Emictory.exe",
                          "accent":  "#2F7BF6",
-                         "releaseNotes":  "Preferencias › Visores 3D: unidad de medida (milímetros, centímetros o metros) y escala de la grilla (automática o una celda fija de 1 mm a 10 m), la misma en el Entorno 3D, Mis modelos y Mis máquinas; los campos de medidas van en la misma unidad. El menú Entorno 3D va en tres columnas (Cámara, Paneles y Ambiente) y ya no se sale de la pantalla. En Mis modelos el gizmo mantiene su tamaño al acercar o alejar. El grano de las cintas transportadoras toma el color del material que les cae (la soya blanca de la tolva o el elevador ya no se ve amarilla en la cinta) y lo que botan sale del mismo color.",
+                         "releaseNotes":  "Todo contacto recibe y entrega energía: el común y la salida de selectores, pulsadores, setas, auxiliares de contactores, contactos de relés y sensores se cablean a cualquier fase, neutro o señal (24 V CC, 24 V CA o 230 V CA) y conducen mientras están cerrados; cada contacto tiene su corriente nominal y se quema si la pasa. La bobina de un contactor se energiza con la tensión real entre A1 y A2, le llegue por donde le llegue. Arreglado: con un generador portátil encendido el motor no partía o se apagaba (su toma de 12 V dejaba sin tensión la salida de 230 V en el cálculo del circuito). Los generadores portátiles son monofásicos o trifásicos según el modelo, y el trifásico entrega 400 V y su toma de 230 V a la vez. Los cables manuales y de señal también se calientan y se queman con su corriente real, y al elegir un cable, Mandos muestra su ficha: corriente contra la que aguanta, temperatura, tensión, caída de tensión y sus datos.",
                          "components":  [
                                             "Microsoft .NET 10",
                                             "Microsoft Visual C++"
