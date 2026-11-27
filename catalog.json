@@ -6,14 +6,14 @@
                          "description":  "Ingeniería y simulación de plantas de automatización.",
                          "publisher":  "LoDanet",
                          "upgradeCode":  "{7E1F4C2A-9B35-4D60-8A17-3C5E2F90B6D1}",
-                         "latestVersion":  "0.5.3.0",
-                         "installerUrl":  "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.5.3/Emictory-0.5.3.msi",
-                         "sha256":  "6D09F53CB1376FE944822ED04E88F22089D7B727F65A9E9E3F03E303D51E26A2",
+                         "latestVersion":  "0.5.4.0",
+                         "installerUrl":  "https://github.com/Eduardo-Gonzalez-eng/emictory-releases/releases/download/emictory-v0.5.4/Emictory-0.5.4.msi",
+                         "sha256":  "32DDC977D171F24A0BC7B8A344453FF70BF10AE4F21A8EA30B03C2AC0E244D9B",
                          "sizeMb":  194.7,
                          "available":  true,
                          "exeName":  "Emictory.exe",
                          "accent":  "#2F7BF6",
-                         "releaseNotes":  "Versión 0.5.3\n- Llenado de botellas: botellas PET vacías de 500 mL y 1,5 L que se llenan con el chorro (nivel, llena, rebalse), válvula de llenado de 24 V CC con boquilla y pórtico porta-válvulas de inox.\n- Cinta de tablillas para botellas (cadena de 82,5 y 114,3 mm, guías regulables).\n- Sin conexiones automáticas: se quitan «Alimentar por…» y «Conectar todo a una fuente…»; cada contacto se conecta a mano en «Contactos».\n- Barras, termomagnéticos, repartidores y contactores toman la tensión que les llega: ya no se marcan «Apagada» por su etiqueta, el unilineal y el cuadro de cargas muestran lo que les llega y «Mediciones» muestra la tensión de cada par de bornes de entrada y de salida.\n- Mediciones: los equipos sin alimentación siguen mostrando sus valores sin medir («----»).\n- Un cable multipolar directo se abre en sus hilos antes de los bornes.\n- Los organizadores en espiral siguen a la puerta al abrir y cerrar.",
+                         "releaseNotes":  "Versión 0.5.4\n- Túneles de entrada y salida: se acoplan a cualquier cinta (banda, rodillos, tablillas, transferencias) en cualquier punto de la banda y adaptan su forma a ella; las botellas vacías que entrega el túnel se pueden llenar.\n- Cinta de tablillas: la cadena da la vuelta completa a las ruedas, sin huecos en las esquinas.\n- Un cordón que sale de una boca (generador portátil) a un termomagnético se abre en sus hilos y cada conductor entra a su borne.\n- Organizadores en espiral con base en la puerta: su otro extremo se pega a la placa o la pared del armario y queda adentro al cerrar la puerta.\n- Al cerrar Emictory con la cruz el proceso siempre termina (no queda abierto en segundo plano).",
                          "components":  [
                                             "Microsoft .NET 10",
                                             "Microsoft Visual C++"
